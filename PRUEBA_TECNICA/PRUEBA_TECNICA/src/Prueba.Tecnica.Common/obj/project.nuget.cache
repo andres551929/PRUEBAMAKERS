@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qjuaqZLVU1s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Imágenes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Common\\Prueba.Tecnica.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

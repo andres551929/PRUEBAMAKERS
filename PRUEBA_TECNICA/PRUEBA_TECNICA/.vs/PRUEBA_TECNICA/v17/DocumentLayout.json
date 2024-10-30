@@ -1,0 +1,475 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{412E031D-2541-4E9D-81A1-EDE6CEE83B3D}|src\\Prueba.Tecnica.Domain\\Prueba.Tecnica.Domain.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.domain\\entities\\prestamoestadoprestamo\\prestamoestadoprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412E031D-2541-4E9D-81A1-EDE6CEE83B3D}|src\\Prueba.Tecnica.Domain\\Prueba.Tecnica.Domain.csproj|solutionrelative:src\\prueba.tecnica.domain\\entities\\prestamoestadoprestamo\\prestamoestadoprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.application\\configuration\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|solutionrelative:src\\prueba.tecnica.application\\configuration\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.application\\database\\prestamo\\commands\\createprestamo\\createprestamomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|solutionrelative:src\\prueba.tecnica.application\\database\\prestamo\\commands\\createprestamo\\createprestamomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.application\\fluentvalidation\\prestamo\\createprestamovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|solutionrelative:src\\prueba.tecnica.application\\fluentvalidation\\prestamo\\createprestamovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.application\\database\\prestamo\\commands\\createprestamo\\icreateprestamocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|solutionrelative:src\\prueba.tecnica.application\\database\\prestamo\\commands\\createprestamo\\icreateprestamocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.application\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|solutionrelative:src\\prueba.tecnica.application\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.application\\database\\prestamo\\commands\\createprestamo\\createprestamocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|solutionrelative:src\\prueba.tecnica.application\\database\\prestamo\\commands\\createprestamo\\createprestamocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79585889-41D4-4AD7-BA1E-18CD8B8EF59B}|src\\Prueba.Tecnica.Api\\Prueba.Tecnica.Api.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.api\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79585889-41D4-4AD7-BA1E-18CD8B8EF59B}|src\\Prueba.Tecnica.Api\\Prueba.Tecnica.Api.csproj|solutionrelative:src\\prueba.tecnica.api\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CE899-C771-4729-94BC-98A0F34051D3}|src\\Prueba.Tecnica.Persistence\\Prueba.Tecnica.Persistence.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.persistence\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CE899-C771-4729-94BC-98A0F34051D3}|src\\Prueba.Tecnica.Persistence\\Prueba.Tecnica.Persistence.csproj|solutionrelative:src\\prueba.tecnica.persistence\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.application\\database\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|solutionrelative:src\\prueba.tecnica.application\\database\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CE899-C771-4729-94BC-98A0F34051D3}|src\\Prueba.Tecnica.Persistence\\Prueba.Tecnica.Persistence.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.persistence\\database\\configuration\\clienteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CE899-C771-4729-94BC-98A0F34051D3}|src\\Prueba.Tecnica.Persistence\\Prueba.Tecnica.Persistence.csproj|solutionrelative:src\\prueba.tecnica.persistence\\database\\configuration\\clienteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CE899-C771-4729-94BC-98A0F34051D3}|src\\Prueba.Tecnica.Persistence\\Prueba.Tecnica.Persistence.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.persistence\\database\\configuration\\prestamoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CE899-C771-4729-94BC-98A0F34051D3}|src\\Prueba.Tecnica.Persistence\\Prueba.Tecnica.Persistence.csproj|solutionrelative:src\\prueba.tecnica.persistence\\database\\configuration\\prestamoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96C8E44-C3AE-4F75-984B-E385D3A6DED7}|src\\Prueba.Tecnica.External\\Prueba.Tecnica.External.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.external\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96C8E44-C3AE-4F75-984B-E385D3A6DED7}|src\\Prueba.Tecnica.External\\Prueba.Tecnica.External.csproj|solutionrelative:src\\prueba.tecnica.external\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79585889-41D4-4AD7-BA1E-18CD8B8EF59B}|src\\Prueba.Tecnica.Api\\Prueba.Tecnica.Api.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79585889-41D4-4AD7-BA1E-18CD8B8EF59B}|src\\Prueba.Tecnica.Api\\Prueba.Tecnica.Api.csproj|solutionrelative:src\\prueba.tecnica.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.application\\database\\cliente\\commands\\createcliente\\icreateclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|solutionrelative:src\\prueba.tecnica.application\\database\\cliente\\commands\\createcliente\\icreateclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.application\\database\\cliente\\commands\\createcliente\\createclientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|solutionrelative:src\\prueba.tecnica.application\\database\\cliente\\commands\\createcliente\\createclientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.application\\database\\cliente\\commands\\createcliente\\createclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|solutionrelative:src\\prueba.tecnica.application\\database\\cliente\\commands\\createcliente\\createclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412E031D-2541-4E9D-81A1-EDE6CEE83B3D}|src\\Prueba.Tecnica.Domain\\Prueba.Tecnica.Domain.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.domain\\entities\\cliente\\clienteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412E031D-2541-4E9D-81A1-EDE6CEE83B3D}|src\\Prueba.Tecnica.Domain\\Prueba.Tecnica.Domain.csproj|solutionrelative:src\\prueba.tecnica.domain\\entities\\cliente\\clienteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.application\\features\\responseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C120A-C8F7-4D8D-B595-EA81F03DD72D}|src\\Prueba.Tecnica.Application\\Prueba.Tecnica.Application.csproj|solutionrelative:src\\prueba.tecnica.application\\features\\responseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CE899-C771-4729-94BC-98A0F34051D3}|src\\Prueba.Tecnica.Persistence\\Prueba.Tecnica.Persistence.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.persistence\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CE899-C771-4729-94BC-98A0F34051D3}|src\\Prueba.Tecnica.Persistence\\Prueba.Tecnica.Persistence.csproj|solutionrelative:src\\prueba.tecnica.persistence\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79585889-41D4-4AD7-BA1E-18CD8B8EF59B}|src\\Prueba.Tecnica.Api\\Prueba.Tecnica.Api.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79585889-41D4-4AD7-BA1E-18CD8B8EF59B}|src\\Prueba.Tecnica.Api\\Prueba.Tecnica.Api.csproj|solutionrelative:src\\prueba.tecnica.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF41068E-7665-4013-BD9C-FFBBADDF6B86}|src\\Prueba.Tecnica.Common\\Prueba.Tecnica.Common.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.common\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF41068E-7665-4013-BD9C-FFBBADDF6B86}|src\\Prueba.Tecnica.Common\\Prueba.Tecnica.Common.csproj|solutionrelative:src\\prueba.tecnica.common\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412E031D-2541-4E9D-81A1-EDE6CEE83B3D}|src\\Prueba.Tecnica.Domain\\Prueba.Tecnica.Domain.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.domain\\models\\baseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412E031D-2541-4E9D-81A1-EDE6CEE83B3D}|src\\Prueba.Tecnica.Domain\\Prueba.Tecnica.Domain.csproj|solutionrelative:src\\prueba.tecnica.domain\\models\\baseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96C8E44-C3AE-4F75-984B-E385D3A6DED7}|src\\Prueba.Tecnica.External\\Prueba.Tecnica.External.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.external\\gettokenjwt\\gettokenjwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96C8E44-C3AE-4F75-984B-E385D3A6DED7}|src\\Prueba.Tecnica.External\\Prueba.Tecnica.External.csproj|solutionrelative:src\\prueba.tecnica.external\\gettokenjwt\\gettokenjwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79585889-41D4-4AD7-BA1E-18CD8B8EF59B}|src\\Prueba.Tecnica.Api\\Prueba.Tecnica.Api.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79585889-41D4-4AD7-BA1E-18CD8B8EF59B}|src\\Prueba.Tecnica.Api\\Prueba.Tecnica.Api.csproj|solutionrelative:src\\prueba.tecnica.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79585889-41D4-4AD7-BA1E-18CD8B8EF59B}|src\\Prueba.Tecnica.Api\\Prueba.Tecnica.Api.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.api\\prueba.tecnica.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{79585889-41D4-4AD7-BA1E-18CD8B8EF59B}|src\\Prueba.Tecnica.Api\\Prueba.Tecnica.Api.csproj|solutionrelative:src\\prueba.tecnica.api\\prueba.tecnica.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79585889-41D4-4AD7-BA1E-18CD8B8EF59B}|src\\Prueba.Tecnica.Api\\Prueba.Tecnica.Api.csproj|c:\\users\\andre\\onedrive\\im\u00E1genes\\plantilla arquitectura\\prueba_tecnica\\prueba_tecnica\\src\\prueba.tecnica.api\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79585889-41D4-4AD7-BA1E-18CD8B8EF59B}|src\\Prueba.Tecnica.Api\\Prueba.Tecnica.Api.csproj|solutionrelative:src\\prueba.tecnica.api\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrestamoEstadoPrestamo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Domain\\Entities\\PrestamoEstadoPrestamo\\PrestamoEstadoPrestamo.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Domain\\Entities\\PrestamoEstadoPrestamo\\PrestamoEstadoPrestamo.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Domain\\Entities\\PrestamoEstadoPrestamo\\PrestamoEstadoPrestamo.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Domain\\Entities\\PrestamoEstadoPrestamo\\PrestamoEstadoPrestamo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:34:08.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\Configuration\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Application\\Configuration\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\Configuration\\MapperProfile.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Application\\Configuration\\MapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:21:11.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreatePrestamoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\FluentValidation\\Prestamo\\CreatePrestamoValidator.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Application\\FluentValidation\\Prestamo\\CreatePrestamoValidator.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\FluentValidation\\Prestamo\\CreatePrestamoValidator.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Application\\FluentValidation\\Prestamo\\CreatePrestamoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:50:42.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreatePrestamoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\DataBase\\Prestamo\\Commands\\CreatePrestamo\\CreatePrestamoCommand.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Application\\DataBase\\Prestamo\\Commands\\CreatePrestamo\\CreatePrestamoCommand.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\DataBase\\Prestamo\\Commands\\CreatePrestamo\\CreatePrestamoCommand.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Application\\DataBase\\Prestamo\\Commands\\CreatePrestamo\\CreatePrestamoCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:37:32.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateClienteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\DataBase\\Cliente\\Commands\\CreateCliente\\CreateClienteCommand.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Application\\DataBase\\Cliente\\Commands\\CreateCliente\\CreateClienteCommand.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\DataBase\\Cliente\\Commands\\CreateCliente\\CreateClienteCommand.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Application\\DataBase\\Cliente\\Commands\\CreateCliente\\CreateClienteCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:46:35.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjectionService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\DependencyInjectionService.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Application\\DependencyInjectionService.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\DependencyInjectionService.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Application\\DependencyInjectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:42:38.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateClienteModel.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\DataBase\\Cliente\\Commands\\CreateCliente\\CreateClienteModel.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Application\\DataBase\\Cliente\\Commands\\CreateCliente\\CreateClienteModel.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\DataBase\\Cliente\\Commands\\CreateCliente\\CreateClienteModel.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Application\\DataBase\\Cliente\\Commands\\CreateCliente\\CreateClienteModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:37:51.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Persistence\\DataBase\\DataBaseService.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Persistence\\DataBase\\DataBaseService.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Persistence\\DataBase\\DataBaseService.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Persistence\\DataBase\\DataBaseService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:24:25.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PrestamoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Persistence\\DataBase\\Configuration\\PrestamoConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Persistence\\DataBase\\Configuration\\PrestamoConfiguration.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Persistence\\DataBase\\Configuration\\PrestamoConfiguration.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Persistence\\DataBase\\Configuration\\PrestamoConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:27:43.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependencyInjectionService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.External\\DependencyInjectionService.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.External\\DependencyInjectionService.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.External\\DependencyInjectionService.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.External\\DependencyInjectionService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAjwBoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:41:54.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreatePrestamoModel.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\DataBase\\Prestamo\\Commands\\CreatePrestamo\\CreatePrestamoModel.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Application\\DataBase\\Prestamo\\Commands\\CreatePrestamo\\CreatePrestamoModel.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\DataBase\\Prestamo\\Commands\\CreatePrestamo\\CreatePrestamoModel.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Application\\DataBase\\Prestamo\\Commands\\CreatePrestamo\\CreatePrestamoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:40:46.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICreatePrestamoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\DataBase\\Prestamo\\Commands\\CreatePrestamo\\ICreatePrestamoCommand.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Application\\DataBase\\Prestamo\\Commands\\CreatePrestamo\\ICreatePrestamoCommand.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\DataBase\\Prestamo\\Commands\\CreatePrestamo\\ICreatePrestamoCommand.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Application\\DataBase\\Prestamo\\Commands\\CreatePrestamo\\ICreatePrestamoCommand.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:43:29.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrestamoController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Api\\Controllers\\PrestamoController.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Api\\Controllers\\PrestamoController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Api\\Controllers\\PrestamoController.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Api\\Controllers\\PrestamoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:55:46.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDataBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\DataBase\\IDataBaseService.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Application\\DataBase\\IDataBaseService.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\DataBase\\IDataBaseService.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Application\\DataBase\\IDataBaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:12:03.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClienteConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Persistence\\DataBase\\Configuration\\ClienteConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Persistence\\DataBase\\Configuration\\ClienteConfiguration.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Persistence\\DataBase\\Configuration\\ClienteConfiguration.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Persistence\\DataBase\\Configuration\\ClienteConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:40:18.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Api\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Api\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Api\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Api\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:57:06.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClienteEntity.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Domain\\Entities\\Cliente\\ClienteEntity.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Domain\\Entities\\Cliente\\ClienteEntity.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Domain\\Entities\\Cliente\\ClienteEntity.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Domain\\Entities\\Cliente\\ClienteEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:06:29.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICreateClienteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\DataBase\\Cliente\\Commands\\CreateCliente\\ICreateClienteCommand.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Application\\DataBase\\Cliente\\Commands\\CreateCliente\\ICreateClienteCommand.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\DataBase\\Cliente\\Commands\\CreateCliente\\ICreateClienteCommand.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Application\\DataBase\\Cliente\\Commands\\CreateCliente\\ICreateClienteCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:06:20.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResponseApiService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\Features\\ResponseApiService.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Application\\Features\\ResponseApiService.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Application\\Features\\ResponseApiService.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Application\\Features\\ResponseApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:20:02.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DependencyInjectionService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Common\\DependencyInjectionService.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Common\\DependencyInjectionService.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Common\\DependencyInjectionService.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Common\\DependencyInjectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:04:04.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Api\\Program.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:57:58.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetTokenJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.External\\GetTokenJwt\\GetTokenJwtService.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.External\\GetTokenJwt\\GetTokenJwtService.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.External\\GetTokenJwt\\GetTokenJwtService.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.External\\GetTokenJwt\\GetTokenJwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:01:11.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DependencyInjectionService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Persistence\\DependencyInjectionService.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Persistence\\DependencyInjectionService.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Persistence\\DependencyInjectionService.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Persistence\\DependencyInjectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:40:56.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Domain\\Models\\BaseResponseModel.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Domain\\Models\\BaseResponseModel.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Domain\\Models\\BaseResponseModel.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Domain\\Models\\BaseResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:19:49.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DependencyInjectionService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Api\\DependencyInjectionService.cs",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Api\\DependencyInjectionService.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Api\\DependencyInjectionService.cs",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Api\\DependencyInjectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:57:14.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Prueba.Tecnica.Api",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Api\\Prueba.Tecnica.Api.csproj",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Api\\Prueba.Tecnica.Api.csproj",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Api\\Prueba.Tecnica.Api.csproj",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Api\\Prueba.Tecnica.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T00:08:08.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Prueba.Tecnica.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Im\u00E1genes\\PLANTILLA ARQUITECTURA\\PRUEBA_TECNICA\\PRUEBA_TECNICA\\src\\Prueba.Tecnica.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Prueba.Tecnica.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T00:11:40.586Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

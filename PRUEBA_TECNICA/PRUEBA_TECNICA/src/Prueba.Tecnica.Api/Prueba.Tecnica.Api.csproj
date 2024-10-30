@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Prueba.Tecnica.Application\Prueba.Tecnica.Application.csproj" />
+    <ProjectReference Include="..\Prueba.Tecnica.Common\Prueba.Tecnica.Common.csproj" />
+    <ProjectReference Include="..\Prueba.Tecnica.External\Prueba.Tecnica.External.csproj" />
+    <ProjectReference Include="..\Prueba.Tecnica.Persistence\Prueba.Tecnica.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
